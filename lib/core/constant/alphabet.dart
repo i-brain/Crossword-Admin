@@ -1,0 +1,38 @@
+class Alphabet {
+  const Alphabet._();
+
+  static List<String> get aze => [
+        'a',
+        'b',
+        'c',
+        'ç',
+        'd',
+        'e',
+        'ə',
+        'f',
+        'g',
+        'ğ',
+        'h',
+        'x',
+        'ı',
+        'i',
+        'j',
+        'k',
+        'q',
+        'l',
+        'm',
+        'n',
+        'o',
+        'ö',
+        'p',
+        'r',
+        's',
+        'ş',
+        't',
+        'u',
+        'ü',
+        'v',
+        'y',
+        'z',
+      ];
+}
